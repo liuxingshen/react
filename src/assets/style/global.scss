@@ -1,0 +1,6 @@
+$secondary-color: #777;
+body {
+    background-color: $secondary-color;
+    //禁用文字选择
+    user-select: none;
+}
